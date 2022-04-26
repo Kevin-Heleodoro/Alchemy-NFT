@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^16.0.0"
   }
 }
